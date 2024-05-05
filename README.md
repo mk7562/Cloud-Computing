@@ -27,9 +27,7 @@ This project aims to simplify the process of finding the perfect book to read by
 'git clone https://github.com/your-username/book-recommender.git'
 
 2.Navigate to the project directory:
-'''
-cd book-recommender
-'''
+'cd book-recommender'
 
 ## Usage
 
