@@ -22,6 +22,10 @@ This project aims to simplify the process of finding the perfect book to read by
 - CSS (Bootstrap)
 - Pandas
 
+## Installation
+1.Clone the repository to your local machine:
+'git clone https://github.com/your-username/book-recommender.git'
+
 ## Usage
 
 - Visit the homepage to explore the top 50 books or navigate to the recommendation page to receive personalized book suggestions.
