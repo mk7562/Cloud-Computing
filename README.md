@@ -29,6 +29,10 @@ This project aims to simplify the process of finding the perfect book to read by
 2.Navigate to the project directory:
 `cd book-recommender`
 
+3.Install dependencies:
+```pip install -r requirements.txt```
+
+
 ## Usage
 
 - Visit the homepage to explore the top 50 books or navigate to the recommendation page to receive personalized book suggestions.
