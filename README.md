@@ -24,13 +24,32 @@ This project aims to simplify the process of finding the perfect book to read by
 
 ## Installation
 1.Clone the repository to your local machine:
-'git clone https://github.com/your-username/book-recommender.git'
+```git clone https://github.com/mk7562/Cloud-Computing.git```
 
 2.Navigate to the project directory:
 `cd book-recommender`
 
 3.Install dependencies:
 ```pip install -r requirements.txt```
+
+## Usage
+1.Run the Flask application by executing the following command:
+```python app.py```
+
+2.Access the application in your web browser at ```http://localhost:5000```
+3.Navigate to the Home page to view a list of top 50 books.
+4.Navigate to the Recommend page to input a book title and receive recommendations based on the input.
+
+
+## Files
+
+- **app.py**: Contains the Flask application logic.
+- **index.html**: HTML template for the Home page.
+- **recommend.html**: HTML template for the Recommend page.
+- **popular.pkl**: Pickle file containing data of popular books.
+- **pt.pkl**: Pickle file containing preprocessed data.
+- **books.pkl**: Pickle file containing book data.
+- **similarity_scores.pkl**: Pickle file containing similarity scores between books.
 
 
 ## Usage
@@ -42,3 +61,7 @@ This project aims to simplify the process of finding the perfect book to read by
 ## Contributing
 
 We welcome contributions from the community! If you have any suggestions, bug reports, or feature requests, please feel free to open an issue or submit a pull request.
+
+## Team Members
+**Manish Kumar(21bds036)**
+**Ravi Ranjan(21bds057)**
