@@ -15,11 +15,11 @@ This project aims to simplify the process of finding the perfect book to read by
 
 ## Technologies Used
 
+- Spark and Hadoop
 - Python
 - Flask
 - HTML
 - CSS (Bootstrap)
-- SQLite
 - Pandas
 
 ## Usage
